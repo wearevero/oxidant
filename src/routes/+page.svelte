@@ -5,8 +5,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>Oxidant</title>
+	<meta name="description" content="Veronique SvelteKit playground" />
 </svelte:head>
 
 <section>

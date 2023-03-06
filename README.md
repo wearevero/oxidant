@@ -1,6 +1,6 @@
 # Oxidant
 
-SvelteKit based app. powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Veronique SvelteKit playground. powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Developing
 
